@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: #828282;
+}
+
+main {
+    width: 626px;
+    margin: 4rem auto;
+}
+
+#imagem_principal {
+    margin-bottom: 2rem;
+}
+
+h1 {
+    font-family: 'Dosis', sans-serif;
+    font-size: 32px;
+    font-weight: 300;
+    color: #3F3D56;
+}
+
+h1 span {
+    color: #EE24FF;
+    font-weight: bold;
+}
+
+p {
+    font-size: 15px;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+strong, a {
+    color: #3F3D56;;
+}
+
+.rodape_link a {
+    width: 100%;
+    margin-left: 28px;
+    text-decoration: none;
+    font-weight: 700;
+    padding-top: 40px;
+}
